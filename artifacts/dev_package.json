@@ -1,0 +1,60 @@
+{
+	"id": "824a7d84-389b-4394-97d4-165134befd44",
+	"createdAt": "2022-03-28T15:20:06.551Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/sveingunnarlarsen/connector-test.git",
+		"testServers": []
+	},
+	"name": "ConnectorTest",
+	"description": null,
+	"ver": "22.3.28.1844",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [
+		{
+			"id": "ef8877e3-3020-4453-9161-e6f25cbbe886",
+			"name": "connectortest",
+			"description": "ci/cd connector test",
+			"ver": "22.3.28.1840"
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [
+		{
+			"id": "aa556c5e-ed15-4648-ac9d-79bc3365c854",
+			"name": "connectordeploytest",
+			"description": "",
+			"ver": "22.3.28.1840",
+			"application": "planet9_adaptive_list"
+		}
+	],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": [
+		{
+			"id": "f8356cfc-07bd-41e9-87b2-73e17e7be325",
+			"name": "ConnectoTest",
+			"description": null
+		}
+	]
+}

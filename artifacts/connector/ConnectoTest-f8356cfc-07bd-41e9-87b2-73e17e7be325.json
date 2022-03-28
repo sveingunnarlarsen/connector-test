@@ -1,0 +1,17 @@
+{
+	"id": "f8356cfc-07bd-41e9-87b2-73e17e7be325",
+	"createdAt": "2022-03-28T13:45:49.716Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"settings": {
+		"tableid": "ef8877e3-3020-4453-9161-e6f25cbbe886",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "ConnectoTest",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.3.28.1839",
+	"disabled": false,
+	"package": "824a7d84-389b-4394-97d4-165134befd44"
+}

@@ -1,0 +1,21 @@
+{
+	"id": "ef8877e3-3020-4453-9161-e6f25cbbe886",
+	"createdAt": "2022-03-28T13:44:27.528Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"fields": [
+		{
+			"id": "e9d08c1a-8e8c-4f66-c963-fd949503e0ef",
+			"fieldName": "a",
+			"fieldType": "mediumtext"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "connectortest",
+	"description": "ci/cd connector test",
+	"ver": "22.3.28.1840",
+	"enableAudit": false,
+	"package": "824a7d84-389b-4394-97d4-165134befd44",
+	"rolesRead": [],
+	"rolesWrite": []
+}
